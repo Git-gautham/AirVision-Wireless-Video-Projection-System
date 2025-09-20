@@ -1,6 +1,5 @@
 # AirVision-Wireless-Video-Projection-System
-# AirVision-Wireless-Video-Projection-System
-📌 Project Overview
+Project Overview
 
 This project implements a wireless video streaming system that allows laptops or mobile devices to send video directly to projectors or monitors without being restricted by cable length.
 
